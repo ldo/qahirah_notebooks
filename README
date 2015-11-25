@@ -1,0 +1,10 @@
+This repository contains [IPython](http://ipython.org) notebooks using Python code to explain various concepts to do with the [Cairo](http://cairographics.org/) 2D graphics library. Cairo calls are made using the [Qahirah](https://github.com/ldo/qahirah) high-level binding for Python 3. Several of the figures can be interactively animated.
+
+If you are new to IPython, use the command
+
+> ipython3 notebook
+
+in the current directory to start an IPython session using Python 3. IPython’s mini webserver will listen on port 8888 on your local machine; connect using your web browser to see the available notebooks to open them and start interacting with them. More information is available via the Help menu in the notebook browser window.
+
+Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
+2015 November 26
