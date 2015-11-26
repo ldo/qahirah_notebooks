@@ -4,7 +4,9 @@ If you are new to IPython, use the command
 
 > ipython3 notebook
 
-in the current directory to start an IPython session using Python 3. IPython’s mini webserver will listen on port 8888 on your local machine; connect using your web browser to see the available notebooks to open them and start interacting with them. More information is available via the Help menu in the notebook browser window.
+in the current directory to start an IPython session using Python 3. IPython’s mini webserver will listen on port 8888 on your local machine; connect using your web browser to see the available notebooks to open them and start interacting with them. In particular, click in a code cell and press shift-enter to execute the code. The code cells in these notebooks are designed to be executed in sequence.
+
+More information is available via the Help menu in the notebook browser window.
 
 Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
 2015 November 26
