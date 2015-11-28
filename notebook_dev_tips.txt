@@ -28,4 +28,5 @@ as clean as possible before committing them to a Git repo:
 I tried using the “Edit → Edit Notebook Metadata” menu item and
 removing the signature field that way, but it seems IPython ignores
 that, and continues including the signature regardless. Thus, the need
-to use a text editor to get rid of it.
+to use a text editor to get rid of it. But watch out for JSON syntax:
+JSON doesn’t allow trailing commas!
