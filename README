@@ -2,7 +2,7 @@ This repository contains [Jupyter](http://jupyter.org/) notebooks using Python c
 
 If you are new to Jupyter/IPython, use the command
 
-> jupyter notebook
+> jupyter-notebook
 
 in the current directory to start a Jupyter session. Jupyter’s mini webserver will listen on port 8888 on your local machine; connect using your web browser to see the available notebooks to open them and start interacting with them. In particular, click in a Python code cell and press shift-enter to execute the code. The code cells in these notebooks are designed to be executed in sequence. Or, if you’re lazy, you can do “Cell → Run All” when you open a notebook.
 
