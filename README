@@ -8,7 +8,7 @@ in the current directory to start a Jupyter session. Jupyter’s mini webserver 
 
 More information is available via the Help menu in the notebook browser window.
 
-Copyright 2015-2016 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These notebooks are licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/); do with them what you will.
+Copyright 2015-2020 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These notebooks are licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/); do with them what you will.
 
 Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
-2017 April 9
+2020 March 18
