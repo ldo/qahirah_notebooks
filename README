@@ -1,4 +1,4 @@
-This repository contains [Jupyter](http://jupyter.org/) notebooks using Python code to explain various concepts to do with the [Cairo](http://cairographics.org/) 2D graphics library. Cairo calls are made using the Qahirah ([GitLab](https://gitlab.com/ldo/qahirah), [GitHub](https://github.com/ldo/qahirah)) high-level binding for Python 3. Several of the figures can be interactively animated.
+This repository contains [Jupyter](http://jupyter.org/) notebooks using Python code to explain various concepts to do with the [Cairo](http://cairographics.org/) 2D graphics library. Cairo calls are made using the Qahirah ([GitLab](https://gitlab.com/ldo/qahirah), [BitBucket](https://bitbucket.org/ldo17/qahirah)) high-level binding for Python 3. Several of the figures can be interactively animated.
 
 If you are new to Cairo graphics, start with the “Intro To Cairo Graphics With Qahirah” notebook.
 
@@ -13,4 +13,4 @@ More information is available via the Help menu in the notebook browser window.
 Copyright 2015-2021 by Lawrence D'Oliveiro <ldo@geek-central.gen.nz>. These notebooks are licensed [CC0](https://creativecommons.org/publicdomain/zero/1.0/); do with them what you will.
 
 Lawrence D'Oliveiro <ldo@geek-central.gen.nz>
-2021 June 1
+2023 August 26
